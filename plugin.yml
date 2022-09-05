@@ -1,0 +1,18 @@
+---
+name: SimpleGamemode
+author: ItzMeFahri
+main: ItzMeFahri\Main
+api: 4.0.0
+version: 1.0.0
+description: §eWARNING!! NO RENAME AUTHOR
+
+commands:
+  gmui:
+    description: "Open To Commands"
+    permission: gmui.cmd
+
+permissions:
+  gmui.cmd:
+    description: "Is permissions"
+    default: op
+---
